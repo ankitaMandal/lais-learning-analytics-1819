@@ -18,10 +18,10 @@ Learning Analytics Insights is a Project developed as a part of Learning Analyti
 
 We removed G2 and G3 and other unimportant variables from this dataset after analyzing the variable importance. (We used Mean Decreasing Accuracy and Mean Decreasing Gini and finalized only 16 out of the 31 variables for our application).
 
-We added another column G4, to classify G3 into three classes: 
- G3=0-10  : G4=1
- G3=11-15 : G4=2
- G3=16-20 : G4=3
+We added another column G4, to classify G3 into three classes: <br>
+ G3=0-10  implies G4=1 <br>
+ G3=11-15 implies G4=2 <br>
+ G3=16-20 implies G4=3 <br>
 # Description of used libraries(R-packages)/algorithms
 shiny: Web Application Framework for R.
 shinyjs: To Easily Improve the User Experience of Your Shiny Apps in Seconds
@@ -30,11 +30,15 @@ caret: The caret package (short for _C_lassification _A_nd _RE_gression _T_raini
                                                                 data splitting
                                                                 pre-processing
                                                                 feature selection
-                                                                model tuning using resampling
-                                                                variable importance estimation
+                                                                model tuning using resampling and
+                                                                variable importance estimation.
  
 randomForest: Breiman and Cutler's Random Forests for Classification of grades into three classes 
-Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees.[1][2] Random decision forests correct for decision trees' habit of overfitting to their training set.
+Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees. Random decision forests correct for decision trees' habit of overfitting to their training set.
+
+References: https://en.wikipedia.org/wiki/Random_forest
+           https://cran.r-project.org/web/packages/
+            
 
 # Example visualizations
 
