@@ -9,3 +9,15 @@ Learning Analytics Insights is a Project developed as a part of Learning Analyti
 <p align="center">
   <img src="www/architecture.png" width="500" title="hover text">
 </p>
+
+
+# Dataset
+https://archive.ics.uci.edu/ml/datasets/student+performance
+
+# Description of used libraries/algorithms
+
+
+# Example visualizations
+
+
+# How to run the project
