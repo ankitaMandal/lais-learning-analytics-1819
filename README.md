@@ -1,6 +1,6 @@
 # Learning Analytics Insights 
 <p align="center">
-  <img src="www/lais logo.PNG" width="200" title="hover text">
+  <img src="www/lais-logo.png" width="300">
 </p>
 
 # lais-learning-analytics-1819
@@ -19,5 +19,11 @@ https://archive.ics.uci.edu/ml/datasets/student+performance
 
 # Example visualizations
 
+<p align="center">
+  <img src="www/heatmap.png" width="600">
+</p>
+<p align="center">
+  <img src="www/bubblechart.png" width="600">
+</p>
 
 # How to run the project
