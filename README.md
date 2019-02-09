@@ -62,10 +62,10 @@ https://www.youtube.com/watch?v=YfhbxSe0qtM&feature=youtu.be
 
 
 # Group Members
-Volkan Yücepur 
-Ankita Mandal 
-Florian Richtscheid 
-Hadis Fouladikia 
-Negin Ahmadian 
-Moloud Kordestani 
+Volkan Yücepur <br>
+Ankita Mandal <br>
+Florian Richtscheid <br>
+Hadis Fouladikia <br>
+Negin Ahmadian <br>
+Moloud Kordestani <br>
 
