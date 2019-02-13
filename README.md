@@ -64,7 +64,7 @@ References: https://en.wikipedia.org/wiki/Random_forest <br>
 
 4. Install the above mentioned packages using install(packagename) 
 
-5. Use runApp("lais-app") in R command line to launch your application.
+5. Use "path/to/R.exe" -e "shiny::runApp('path/to/lais-app', launch.browser = TRUE)" to run application from terminal. Otherwise zou can also import the project in R Studio and launch it by clicking on Run-App.
 
 
 
