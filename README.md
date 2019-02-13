@@ -23,18 +23,18 @@ We added another column G4, to classify G3 into three classes: <br>
  G3=11-15 implies G4=2 <br>
  G3=16-20 implies G4=3 <br>
 # Description of used libraries(R-packages)/algorithms
-shiny: Web Application Framework for R.
-shinyjs: To Easily Improve the User Experience of Your Shiny Apps in Seconds
-plotly: To Create Interactive Web Graphics via 'plotly.js'
-caret: The caret package (short for _C_lassification _A_nd _RE_gression _T_raining) is a set of functions that attempt to streamline the process for creating predictive models. Used for: 
+shiny: Web Application Framework for R. <br>
+shinyjs: To Easily Improve the User Experience of Your Shiny Apps in Seconds <br>
+plotly: To Create Interactive Web Graphics via 'plotly.js' <br>
+caret: The caret package (short for _C_lassification _A_nd _RE_gression _T_raining) is a set of functions that attempt to streamline the process for creating predictive models. Used for: <br>
                                                                 data splitting
                                                                 pre-processing
                                                                 feature selection
                                                                 model tuning using resampling and
-                                                                variable importance estimation.
+                                                                variable importance estimation. <br>
  
 randomForest: Breiman and Cutler's Random Forests for Classification of grades into three classes 
-Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees. Random decision forests correct for decision trees' habit of overfitting to their training set.
+Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees. Random decision forests correct for decision trees' habit of overfitting to their training set. <br>
 
 References: https://en.wikipedia.org/wiki/Random_forest <br>
            https://cran.r-project.org/web/packages/
